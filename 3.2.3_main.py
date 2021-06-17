@@ -37,10 +37,13 @@ plt.title('Percent of Population with Access to Electricity')
 plt.legend()
 plt.show()
 
+
 '''
+8:code
 9 Question: Based on the countries i choose in north america and south america, you can see that the us has always had 
  steady electricity, and the other countries in south america the population is also gaining access to more electricity. 
  European countries all have access to electricty. All african countries population who has acess to electricty is increasing, but
  the percentage is still low compared to european and north american countries. In asian coutnries is a similar pattern with
  african countries except most of them have a higher percent of population with electricity
+ 10:it looks like graphs everyone else did in class
 '''

@@ -46,4 +46,7 @@ plt.show()
  the percentage is still low compared to european and north american countries. In asian coutnries is a similar pattern with
  african countries except most of them have a higher percent of population with electricity
  10:it looks like graphs everyone else did in class
+ 
+How does access to electricity affect countries' access to computing innovations? computers require electricty to charge and operate so countries who lack this important tool are not going to have the same acesss to computer innovations as coutnries with more electricity
+How can analyzing data like this be used to affect global change? Analyzing this data can show the need to others of countries, which can help them get help.
 '''
